@@ -11,4 +11,5 @@ export async function getRotationChamp(request: Request) {
     }
   );
   const data = await response.json();
+  return NextResponse.json(data);
 }
