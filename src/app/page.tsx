@@ -11,7 +11,7 @@ const page = () => {
       <p>리그오브레전드 정보 앱</p>
       <p>Riot Games API를 활용하여 챔피언과 아이템 정보를 제공합니다.</p>
       <Link href="/champions">
-        <Image src={img_01} alt="챔피언 목록" width={400} height={300} />
+        <Image src={img_01} alt="챔피언 목록" width={400} height={400} />
         <p>챔피언 목록 보기</p>
       </Link>
       <Link href="/lotation">
