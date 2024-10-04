@@ -1,3 +1,3 @@
-interface RotationChampion {
+export interface RotationChampion {
   freeChampionIds: [number];
 }
