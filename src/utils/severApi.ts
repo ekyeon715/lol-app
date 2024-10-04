@@ -25,7 +25,7 @@ export async function getChampionList(): Promise<Champion[]> {
   }
 }
 
-export async function getChampionDetail(id: string): Promise<Champion[]> {
+export async function getChampionDetail(id: string): Promise<Champion> {
   const version = await getLatestVersion();
   const response = await fetch(
     `https://ddragon.leagueoflegends.com/cdn/${version}/data/ko_KR/champion/${id}.json`
