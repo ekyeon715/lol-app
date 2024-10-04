@@ -19,7 +19,7 @@ export async function getChampionList(): Promise<Champion[]> {
       `https://ddragon.leagueoflegends.com/cdn/${version}/data/ko_KR/champion.json`
     );
     const data = await response.json();
-    return data.data;
+    return Object.values(data.data);
   } catch (error) {
     throw new Error("챔피언 목록을 가져오는 데 실패했습니다.");
   }
