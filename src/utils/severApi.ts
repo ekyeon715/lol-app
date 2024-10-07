@@ -40,5 +40,5 @@ export async function getItemList(): Promise<Items[]> {
     `https://ddragon.leagueoflegends.com/cdn/${version}/data/ko_KR/item.json`
   );
   const data = await response.json();
-  return data.data;
+  return Object.values(data.data);
 }
