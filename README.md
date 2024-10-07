@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ## 프로젝트 파일 구조
+![파일계층구조](https://github.com/user-attachments/assets/057bece1-be93-49de-ac02-082293b3a13e)
 
 ## Trouble Shooting
 
