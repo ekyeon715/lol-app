@@ -36,16 +36,9 @@
 ### ✔️ Framework
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 ### ✔️ Deploy
-
-### ✔️ DBMS
-
-## 서비스 구조
-
-## 와이어프레임
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ## API 명세서
-
-## ERD
 
 ## 프로젝트 파일 구조
 
