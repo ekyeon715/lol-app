@@ -38,33 +38,6 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ## 프로젝트 파일 구조
-├─ src
-│  ├─ app
-│  │  ├─ api
-│  │  │  └─ rotation
-│  │  │     └─ route.ts
-│  │  ├─ champions
-│  │  │  ├─ page.tsx
-│  │  │  └─ [id]
-│  │  │     └─ page.tsx
-│  │  ├─ globals.css
-│  │  ├─ items
-│  │  │  └─ page.tsx
-│  │  ├─ layout.tsx
-│  │  ├─ page.tsx
-│  │  ├─ public
-│  │  │  ├─ champ.png
-│  │  │  ├─ lol.png
-│  │  │  └─ mejai.png
-│  │  └─ rotation
-│  │     └─ page.tsx
-│  ├─ types
-│  │  ├─ Champion.ts
-│  │  ├─ ChampionRotation.ts
-│  │  └─ Items.ts
-│  └─ utils
-│     ├─ riotApi.ts
-│     └─ severApi.ts
 
 ## Trouble Shooting
 https://ekyeon.tistory.com/69
