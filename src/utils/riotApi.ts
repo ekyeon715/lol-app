@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-export async function getRotationChamp(request: Request) {
+export async function getRotationChamp() {
   const response = await fetch(
     "https://kr.api.riotgames.com/lol/platform/v3/champion-rotations",
     {
