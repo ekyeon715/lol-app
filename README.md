@@ -6,9 +6,8 @@
 2. [주요기능](#주요기능)
 3. [개발기간](#개발기간)
 4. [기술스택](#기술스택)
-5. [API 명세서](#API-명세서)
-6. [프로젝트 파일 구조](#프로젝트-파일-구조)
-7. [Trouble Shooting](#trouble-shooting)
+5. [프로젝트 파일 구조](#프로젝트-파일-구조)
+6. [Trouble Shooting](#trouble-shooting)
 
 ## 👨‍🏫 프로젝트 소개
 
@@ -31,24 +30,14 @@
 ## 📚️ 기술스택
 
 ### ✔️ Language
-
-### ✔️ Version Control
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 ### ✔️ IDE
-
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 ### ✔️ Framework
-
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 ### ✔️ Deploy
-
-### ✔️ DBMS
-
-## 서비스 구조
-
-## 와이어프레임
-
-## API 명세서
-
-## ERD
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ## 프로젝트 파일 구조
 
@@ -81,3 +70,4 @@
 │ └─ severApi.ts
 
 ## Trouble Shooting
+https://ekyeon.tistory.com/69
