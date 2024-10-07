@@ -6,9 +6,8 @@
 2. [주요기능](#주요기능)
 3. [개발기간](#개발기간)
 4. [기술스택](#기술스택)
-5. [API 명세서](#API-명세서)
-6. [프로젝트 파일 구조](#프로젝트-파일-구조)
-7. [Trouble Shooting](#trouble-shooting)
+5. [프로젝트 파일 구조](#프로젝트-파일-구조)
+6. [Trouble Shooting](#trouble-shooting)
 
 ## 👨‍🏫 프로젝트 소개
 
@@ -37,8 +36,6 @@
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 ### ✔️ Deploy
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
-## API 명세서
 
 ## 프로젝트 파일 구조
 
