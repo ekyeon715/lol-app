@@ -14,7 +14,7 @@ const page = () => {
         <Image src={img_01} alt="챔피언 목록" width={400} height={400} />
         <p>챔피언 목록 보기</p>
       </Link>
-      <Link href="/lotation">
+      <Link href="/rotation">
         <Image src={img_02} alt="금주 로테이션" width={400} height={300} />
         <p>금주 로테이션 확인</p>
       </Link>
