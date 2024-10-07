@@ -30,6 +30,7 @@
 ## 📚️ 기술스택
 
 ### ✔️ Language
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 ### ✔️ IDE
@@ -41,33 +42,6 @@
 
 ## 프로젝트 파일 구조
 
-├─ src
-│ ├─ app
-│ │ ├─ api
-│ │ │ └─ rotation
-│ │ │ └─ route.ts
-│ │ ├─ champions
-│ │ │ ├─ page.tsx
-│ │ │ └─ [id]
-│ │ │ └─ page.tsx
-│ │ ├─ globals.css
-│ │ ├─ items
-│ │ │ └─ page.tsx
-│ │ ├─ layout.tsx
-│ │ ├─ page.tsx
-│ │ ├─ public
-│ │ │ ├─ champ.png
-│ │ │ ├─ lol.png
-│ │ │ └─ mejai.png
-│ │ └─ rotation
-│ │ └─ page.tsx
-│ ├─ types
-│ │ ├─ Champion.ts
-│ │ ├─ ChampionRotation.ts
-│ │ └─ Items.ts
-│ └─ utils
-│ ├─ riotApi.ts
-│ └─ severApi.ts
-
 ## Trouble Shooting
+
 https://ekyeon.tistory.com/69
